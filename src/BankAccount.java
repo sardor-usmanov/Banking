@@ -3,6 +3,11 @@ import java.util.Scanner;
 public class BankAccount {
     private double balance;
 
+    // Getter method for balance
+    public double getBalance() {
+        return balance;
+    }
+
     // Default constructor
     public BankAccount() {
         balance = 0.0;

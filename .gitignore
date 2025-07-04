@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# .gitignore faylga yozing
+accounts.txt
